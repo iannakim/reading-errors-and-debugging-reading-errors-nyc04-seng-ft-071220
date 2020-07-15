@@ -1,3 +1,3 @@
-"hello_world"
+name = "hello_world"
 
 hello_world
